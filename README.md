@@ -1,8 +1,6 @@
 # Starbucks-Landing-Page
 A stunning and responsive Starbucks landing page built from scratch using HTML and CSS! 💻🎨
 
-🌟 Creating a Stunning Starbucks Landing Page - Fully Responsive with Catchy Hover Effects! 🌟
-
 Hello everyone! 👋 As a passionate web developer, I recently took on an exciting project to design and build a Starbucks landing page from scratch using core HTML and CSS. I am thrilled to share the results with you all today!
 
 📱 Fully Responsive Design:
@@ -25,7 +23,7 @@ Media Queries: To ensure a seamless user experience across different devices.
 Hover Effects: I try to make a normal hover effect on button and navbar elements.
 
 💻 GitHub:
-You can check out the live version of the Starbucks landing page on GitHub [Provide GitHub repository link]. Feel free to explore the code and leave any feedback or suggestions. I'm always open to learning and improving my skills!
+You can check out the live version of the Starbucks landing page on GitHub https://github.com/Amanyadav0007/Starbucks-Landing-Page Feel free to explore the code and leave any feedback or suggestions. I'm always open to learning and improving my skills!
 
 🔗 LinkedIn:
 I've also shared my journey of creating this project on LinkedIn [Provide LinkedIn post link]. Please like, comment, and share your thoughts. Your support and encouragement mean the world to me!
