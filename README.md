@@ -26,6 +26,6 @@ Hover Effects: I try to make a normal hover effect on button and navbar elements
 You can check out the live version of the Starbucks landing page on GitHub https://github.com/Amanyadav0007/Starbucks-Landing-Page Feel free to explore the code and leave any feedback or suggestions. I'm always open to learning and improving my skills!
 
 🔗 LinkedIn:
-I've also shared my journey of creating this project on LinkedIn [Provide LinkedIn post link]. Please like, comment, and share your thoughts. Your support and encouragement mean the world to me!
+I've also shared my journey of creating this project on LinkedIn https://www.linkedin.com/feed/update/urn:li:activity:7089672157198229504/ Please like, comment, and share your thoughts. Your support and encouragement mean the world to me!
 
 Thank you all for joining me on this creative journey. I look forward to sharing more exciting projects with you in the future. Let's keep coding and crafting beautiful web experiences together! 🚀💻
